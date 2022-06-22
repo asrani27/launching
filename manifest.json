@@ -9,6 +9,18 @@
     "short_name": "Launching",
     "start_url": "/",
     "theme_color": "#ffffff",
+    "icons": [
+        {
+            "src": "/256.png",
+            "type": "image/png",
+            "sizes": "256x256"
+        },
+        {
+            "src": "/512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        },
+    ],
     "categories": [],
     "screenshots": [],
     "shortcuts": []
