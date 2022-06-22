@@ -111,6 +111,7 @@
         function gotoVideo() {
             setTimeout(() => {
                 //window.open("https://www.youtube.com/embed/6JFpwtATxh4?autoplay=1");
+                toggleFullScreen();
                 document.getElementById("video-container").style.display = "block";
                 document.getElementById('video-player').play();
             }, 100)
