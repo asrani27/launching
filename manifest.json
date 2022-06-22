@@ -1,0 +1,15 @@
+{
+    "background_color": "#ffffff",
+    "description": "Launching Aplikasi Banjarmasin Pintar",
+    "dir": "ltr",
+    "display": "standalone",
+    "name": "Launching Aplikasi Banjarmasin Pintar",
+    "orientation": "landscape",
+    "scope": "/",
+    "short_name": "Launching",
+    "start_url": "/",
+    "theme_color": "#ffffff",
+    "categories": [],
+    "screenshots": [],
+    "shortcuts": []
+}
