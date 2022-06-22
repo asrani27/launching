@@ -1,0 +1,6 @@
+[{
+        "relation": ["delegate_permission/common.handle_all_urls"],
+        "target" : { "namespace": "android_app", "package_name": "id.go.banjarmasinkota.launching.twa",
+                     "sha256_cert_fingerprints": ["38:BA:64:B6:1F:09:EF:17:C0:D5:48:50:A4:A2:6D:9A:AA:AA:35:7E:32:F0:54:85:93:41:43:C0:D1:AE:23:30"] }
+      }
+]
