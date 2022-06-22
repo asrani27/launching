@@ -5,6 +5,7 @@ const assets = [
     "/background.jpg",
     "/button.png",
     "/logo.png",
+    "/video.mp4",
 ]
 
 self.addEventListener("install", installEvent => {
